@@ -1,6 +1,6 @@
 /**/
     body{
-        background-color: rgb(0, 255, 255);
+        background-color:springgreen;
     }
 
     button{
@@ -56,20 +56,26 @@
     
     #btnA {
         font-size: 20px;
-        position:absolute; top:380px; left:2%; width:43%; height:60px; 
+        position:absolute; top:380px; left:1%; width:23%; height:60px; 
         background-color: yellow;
         color: green;
     }
     
     #btnB {
         font-size: 20px;
-        position:absolute; top:380px; left:45%; width:25%; height:60px; 
+        position:absolute; top:380px; left:26%; width:23%; height:60px; 
         background-color: red;
     }
 
     #btnC {
-        font-size: 10px;
-        position:absolute; top:380px; left:70%; width:28%; height:60px; 
+        font-size: 20px;
+        position:absolute; top:380px; left:51%; width:23%; height:60px; 
+    }
+
+    #btnD {
+        font-size: 20px;
+        position:absolute; top:380px; left:76%; width:23%; height:60px; 
+        background-color: coral;
     }
     
     #minute {
